@@ -8,5 +8,6 @@ namespace WindowsFormsApplication1.Control
 {
     class ElevLista
     {
+        private int test;
     }
 }
